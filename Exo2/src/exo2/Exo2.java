@@ -4,6 +4,8 @@
  */
 package exo2;
 
+import java.util.Scanner;
+
 /**
  *
  * @author saint
@@ -25,6 +27,10 @@ public class Exo2 {
        ind=1;
        while (result <= nb) {
            result=result+ind;
+//nb=5;
+Scanner sc = new Scanner(System.in);
+System.out.println("\n Entrer le nombre :");
+sc.nextInt(); // On demande a sc de donner le prochain entier
        }
        
        // Affichage du resultat
