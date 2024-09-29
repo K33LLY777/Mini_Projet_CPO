@@ -40,7 +40,7 @@ public class TP1_convertisseur_SAINTEROSE {
     case 4 -> temp = CelciusVersFarenheit(reel1);
     case 5 -> temp = KelvinVersFarenheit(reel1);
     case 6 -> temp = FarenheitVersKelvin(reel1);
-            // Ajout du break manquant ici
+            
     default -> {
         System.out.println("Indice invalide");
         return; // permet de ne pas exécuter `System.out.println(temp)` si l'indice est invalide.
