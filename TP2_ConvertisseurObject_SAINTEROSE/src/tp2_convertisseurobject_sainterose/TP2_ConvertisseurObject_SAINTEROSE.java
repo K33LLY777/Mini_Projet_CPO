@@ -4,7 +4,6 @@
  */
 package tp2_convertisseurobject_sainterose;
 
-import java.util.Scanner;
 /**
  *
  * @author saint
