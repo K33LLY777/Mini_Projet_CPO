@@ -52,5 +52,5 @@ if (Operator>5) {
     if(Operator==5) {
         result=operande1%operande2;
     }
-    System.out.println("\n the result is" + result);
+    System.out.println("\n the result is " + result);
 }}
